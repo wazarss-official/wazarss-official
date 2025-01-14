@@ -1,10 +1,10 @@
-# Welcome to Wazar Solutions!
+# Welcome to Wazar Solutions & Services (Wazar SS)!
 
-Welcome to the official GitHub page for **Wazar Solutions**, a technology company dedicated to delivering innovative and impactful digital solutions to businesses and individuals across the globe. At Wazar Solutions, we aim to harness the power of technology to drive business growth, enhance operational efficiency, and provide high-quality services that meet the unique needs of our clients.
+Welcome to the official GitHub page for **Wazar Solutions & Services (Wazar SS)**, a technology company dedicated to delivering innovative and impactful digital solutions to businesses and individuals across the globe. At Wazar Solutions & Services (Wazar SS), we aim to harness the power of technology to drive business growth, enhance operational efficiency, and provide high-quality services that meet the unique needs of our clients.
 
-## About Wazar Solutions
+## About Wazar Solutions & Services (Wazar SS)
 
-Wazar Solutions is a forward-thinking technology firm that specializes in providing a wide range of solutions tailored to meet the specific needs of our clients. Our core services are designed to help businesses scale efficiently, implement robust digital systems, and create sustainable solutions that add value.
+Wazar Solutions & Services (Wazar SS) is a forward-thinking technology firm that specializes in providing a wide range of solutions tailored to meet the specific needs of our clients. Our core services are designed to help businesses scale efficiently, implement robust digital systems, and create sustainable solutions that add value.
 
 ### Our Vision
 We aspire to be a global leader in technology innovation, empowering businesses to achieve their full potential by providing cutting-edge, customized digital solutions.
@@ -14,7 +14,7 @@ Our mission is to provide businesses with scalable, reliable, and cost-effective
 
 ## Our Services
 
-At Wazar Solutions, we offer an extensive range of services designed to meet the needs of different industries. Some of our primary services include:
+At Wazar Solutions & Services (Wazar SS), we offer an extensive range of services designed to meet the needs of different industries. Some of our primary services include:
 
 ### 1. **Custom Software Development**
 We build customized software solutions that are perfectly aligned with your business needs. From web and mobile apps to enterprise-grade systems, our team creates scalable, secure, and efficient software.
@@ -52,6 +52,7 @@ We provide end-to-end digital marketing services that help businesses grow their
 We'd love to hear from you! Whether you have a project in mind, need expert advice, or simply want to learn more about our services, don't hesitate to reach out.
 
 - **Email**: info@wazar.pk
+- **Email**: dev.wazar@gmail.com
 - **Website**: [www.wazarsolutions.com](http://www.wazar.pk)
 
 ## Get Started with Us!
